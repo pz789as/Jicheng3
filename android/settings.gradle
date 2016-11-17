@@ -1,0 +1,3 @@
+rootProject.name = 'Jicheng3'
+
+include ':app'
